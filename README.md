@@ -63,12 +63,12 @@ ___
   
 ### how to run the django app
 * prerequisite : Python3
-####Step 1:
+### Step 1:
 Installing dependency for the project fom Python pip
 ```
 pip3 install -r requirements.text
 ```
-####Step 2:
+###Step 2:
 Running Django Application
 ```
 python3 manage.py runserver
